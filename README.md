@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sirzacharia
-- 👀 I’m interested in Database, SQL, Python coding, and AI
+- 👀 I’m interested in SQL, Python, and AI
 - 🌱 I’m currently learning everything I can
 - 💞️ I’m looking to collaborate on Python and SQL
 - 📫 How to reach me ...
